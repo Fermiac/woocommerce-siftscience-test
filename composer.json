@@ -1,0 +1,15 @@
+{
+    "name": "fermiac/woocommerce-siftscience-test",
+    "description": "Project for testing WooCommerce-SiftScience plugin",
+    "type": "Test Project",
+    "require": {
+        "codeception/codeception": "^2.1"
+    },
+    "license": "GPL3",
+    "authors": [
+        {
+            "name": "Nabeel Sulieman",
+            "email": "nabee.sulieman@live.com"
+        }
+    ]
+}
